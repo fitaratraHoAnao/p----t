@@ -1,5 +1,39 @@
 # Changelog
 
+## [2.6.0](https://github.com/fitaratraHoAnao/p----t/compare/v2.5.1...v2.6.0) (2025-03-12)
+
+
+### Features
+
+* enhanced ai command to perfom other commands ([#1156](https://github.com/fitaratraHoAnao/p----t/issues/1156)) ([7ed779b](https://github.com/fitaratraHoAnao/p----t/commit/7ed779bbf384a2a559b642c553ec2c0e0de02ada))
+* essential configuration options for deployers ([3666b9f](https://github.com/fitaratraHoAnao/p----t/commit/3666b9f3a25127909940c988164ff61ec3c2ea99))
+
+
+### Bug Fixes
+
+* dev-center undefined error ([794778d](https://github.com/fitaratraHoAnao/p----t/commit/794778d665b0ae6dfa92b727a5f88fc604e982cd))
+* don't show register when user signup is disabled ([ad7b7b9](https://github.com/fitaratraHoAnao/p----t/commit/ad7b7b951345bb23c9010c8e3509673412c5d6d3)), closes [#1087](https://github.com/fitaratraHoAnao/p----t/issues/1087)
+* errors after stream starts ([759c32a](https://github.com/fitaratraHoAnao/p----t/commit/759c32ac726461202323d97309828160cd6dc1a0))
+* get event docs back in sync ([e6b3cb3](https://github.com/fitaratraHoAnao/p----t/commit/e6b3cb36665b51c5b7cc88f13513bf71c36a4f3a))
+* **gui:** color of the UI on dark mode (e.g. windows control, active sidebar) ([#1161](https://github.com/fitaratraHoAnao/p----t/issues/1161)) ([33c3048](https://github.com/fitaratraHoAnao/p----t/commit/33c304879a5fe4db6f0be10fce87629d40db31b1))
+* incorrect addition of https prefix for peers ([41d5dbc](https://github.com/fitaratraHoAnao/p----t/commit/41d5dbc0da771ecab47cd477a5ed91b3f65709db))
+* issues with thread subscriptions ([252647c](https://github.com/fitaratraHoAnao/p----t/commit/252647cea6c2202a2a2ba61f9e026189810ef889))
+* made protocol dynamic in the publishURL displayed on 'Publish As Website' dialogbox ([#1170](https://github.com/fitaratraHoAnao/p----t/issues/1170)) ([6236d00](https://github.com/fitaratraHoAnao/p----t/commit/6236d00ea2324a8c4e05a57181d0d2318f33584e))
+* message coercion bug affecting vision ([ec0a721](https://github.com/fitaratraHoAnao/p----t/commit/ec0a72114382a78d82bc7d0156daf1a2a003d567))
+* message coercion for tool call message ([d66e38c](https://github.com/fitaratraHoAnao/p----t/commit/d66e38cc667073603d4368095d4e0bc277218f90))
+* move AppCommandProvider to the end ([870e4aa](https://github.com/fitaratraHoAnao/p----t/commit/870e4aa93807f1fcd37af29d9369737ab9f4b4b1))
+* o3 tools with array parameters ([2ee380e](https://github.com/fitaratraHoAnao/p----t/commit/2ee380ec16789525c9f0b782fb4af1e193ddd232))
+* path update in legacy rename behavior ([7e82c94](https://github.com/fitaratraHoAnao/p----t/commit/7e82c947b1070b4a42798f7ae84bfaee8c3b54c9))
+* permission request 500 errors ([3276faa](https://github.com/fitaratraHoAnao/p----t/commit/3276faa5f09163a924316fac1a175ddeb0724e61))
+* puter subdomain error response ([cfa5c7e](https://github.com/fitaratraHoAnao/p----t/commit/cfa5c7e715405a0f92dc798195edc25f66b2b83b))
+* recursive delete error ([7e76b65](https://github.com/fitaratraHoAnao/p----t/commit/7e76b657bb2fe811d437598471e52744a6276088))
+* **security:** patch express via path-to-regexp ([d081c4f](https://github.com/fitaratraHoAnao/p----t/commit/d081c4f2fe8357ef8aa35790a794509a8e188fb7))
+* small fixes for threads ([96199cb](https://github.com/fitaratraHoAnao/p----t/commit/96199cbb54c8e4cbe3205a507de606811e893130))
+* temperature and max_tokens (interface + OpenAI) ([03045e2](https://github.com/fitaratraHoAnao/p----t/commit/03045e2737084b838323c49bef8cebc8e9e39a27))
+* thread delete events ([3e74f42](https://github.com/fitaratraHoAnao/p----t/commit/3e74f42c4d1c0519e4e89d939b4af416ce008737))
+* thread subscription updates across regions ([76bedf5](https://github.com/fitaratraHoAnao/p----t/commit/76bedf5f8ff3167eb6bf5ff71f7cc06c74f62d23))
+* wrong parameter count ([26591e4](https://github.com/fitaratraHoAnao/p----t/commit/26591e4171d41f402efa78201dd5308ec419b26c))
+
 ## v2.5.1 (2025-02-13)
 
 ### Puter
